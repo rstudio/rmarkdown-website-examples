@@ -8,7 +8,6 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: cosmo
     highlight: textmate
     include:
       after_body: footer.html
