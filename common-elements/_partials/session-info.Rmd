@@ -1,0 +1,6 @@
+
+Session information:
+
+```{r}
+sessionInfo()
+```

@@ -3,3 +3,6 @@ title: "My Website"
 ---
 
 Hello, Website!
+
+```{r, child="_partials/session-info.Rmd"}
+```

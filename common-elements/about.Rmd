@@ -3,3 +3,6 @@ title: "About This Website"
 ---
 
 More about this website.
+
+```{r, child="_partials/session-info.Rmd"}
+```
