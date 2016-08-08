@@ -1,6 +1,0 @@
-
-Session information:
-
-```{r}
-sessionInfo()
-```
