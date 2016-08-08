@@ -1,8 +1,0 @@
----
-title: "My Website"
----
-
-Hello, Website!
-
-```{r, child="_sessioninfo.Rmd"}
-```
