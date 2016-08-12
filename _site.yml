@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Les sixièmes Rencontres R"
   type: inverse
-  right:
+  left:
     - text: "Acceuil"
       href: index.html
     - text: "Appel à communications"
@@ -16,6 +16,10 @@ navbar:
       href: inscription.html
     - text: "Partenaires et Sponsors"
       href: partenaires.html
+
+      right:
+    - icon: fa-question fa-lg
+      href: https://example.com
 
 output:
   html_document:
