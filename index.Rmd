@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Les sixièmes Rencontres R:  Anglet du 22 au 24 Juin 2017"
 ---
 
 Hello, Website!
