@@ -2,6 +2,7 @@ name: "my-website"
 output_dir: "."
 navbar:
   title: "Les sixièmes Rencontres R"
+  type: inverse
   left:
     - text: "Acceuil"
       href: index.html
@@ -9,10 +10,9 @@ navbar:
       href: about.html
     - text: "Comités"
       href: committee.html
-
 output:
-theme: cosmo
-highlight: textmate
-
+  html_document:
+    theme: cosmo
+    highlight: textmate
 
 
