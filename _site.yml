@@ -10,7 +10,9 @@ navbar:
     - text: "Comités"
       href: committee.html
 
-
+output:
+theme: cosmo
+highlight: textmate
 
 
 
