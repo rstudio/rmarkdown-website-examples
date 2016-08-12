@@ -3,6 +3,6 @@ title:  |
     | Les sixièmes Rencontres R: 
     | Anglet du 22 au 24 Juin 2017
 ---
-  ![hover-text](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/Anglet.png)
+  ![](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/Anglet.png)
   
   

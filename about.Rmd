@@ -3,3 +3,5 @@ title: "About This Website"
 ---
 
 More about this website.
+
+![ffe](https://github.com/benoit-liquet/rmarkdown-website-examples/FIG/Anglet.png)
