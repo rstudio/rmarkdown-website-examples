@@ -1,9 +1,16 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Les sixièmes Rencontres R"
   left:
-    - text: "Home"
+    - text: "Acceuil"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Comités"
+      href: committee.html
+
+
+
+
+
