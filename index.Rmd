@@ -4,4 +4,4 @@ title:  |
     | Anglet du 22 au 24 Juin 2017
 ---
 
-Hello, Website!
+Hello
