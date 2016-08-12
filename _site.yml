@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Les sixièmes Rencontres R"
   type: inverse
-  left:
+  right:
     - text: "Acceuil"
       href: index.html
     - text: "Appel à communications"
