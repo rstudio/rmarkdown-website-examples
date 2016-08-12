@@ -15,4 +15,8 @@ output:
     theme: cosmo
     highlight: textmate
 
+    background-image: url(/FIG/Anglet.png);
+    background-color: #cccccc;
+
+
 
