@@ -14,6 +14,9 @@ Un résumé d'une à deux pages est demandé pour ces trois types de communicati
 
 Les résumés doivent être soumis au format **PDF** en utilisant l'un des gabarits (Latex, LibreOffice, Word ou RMarkdown) suivants :
 
+[**gabarit_RR.tex**](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/Gabarit/gabarit_RR.tex)
+
+  
 <font color="red"> **ATTENTION**: Le dépôts des communications n'est pas encore ouvert mais vous pouvez déja envoyer votre **PDF** à  benoit.liquet@univ-pau.fr </font>
 
 La date limite pour les soumissions est fixée au **8 avril 2017**.
