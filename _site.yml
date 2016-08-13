@@ -18,8 +18,8 @@ navbar:
       href: partenaires.html
 
       right:
-    - icon: fa-question fa-lg
-      href: https://example.com
+    - text: R
+      href: https://cran.r-project.org/index.html
 
 output:
   html_document:

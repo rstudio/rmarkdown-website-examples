@@ -1,5 +1,22 @@
 ---
-title: "About This Website"
+title: "Comités"
 ---
 
-More about this website.
+***
+
+### **Comité scientifique**
+
+-    Aurélien Latouche (CNAM, Paris) Président
+-    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente
+-    Philippe Saint Pierre (Toulouse I)
+-    Yannig Goude (EDF, Palaiseau)
+-    Pierre Lafaye de Micheaux (École Polytechnique)
+
+
+### **Comité d'organisation**
+
+-    Benoit Liquet (UPPA, LMAP) Président
+-    Christian Paroissin (UPPA, LMAP ) Vice-président
+-    Noelle Bru (UPPA, LMAP)
+-    Sylvere Besse (UPPA)
+-    Camilo Broc (UPPA, LMAP)
