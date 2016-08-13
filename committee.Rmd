@@ -10,7 +10,7 @@ title: "Comités"
 -    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente
 -    Philippe Saint Pierre (Toulouse I)
 -    Yannig Goude (EDF, Palaiseau)
--    Pierre Lafaye de Micheaux (École Polytechnique)
+-    Pierre Lafaye de Micheaux 
 
 
 ### **Comité d'organisation**
