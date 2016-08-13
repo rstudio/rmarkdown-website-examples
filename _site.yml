@@ -1,6 +1,5 @@
 name: "my-website"
 output_dir: "."
-css: Kfyin.css
 navbar:
   title: "Les sixièmes Rencontres R"
   type: inverse
@@ -26,7 +25,7 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
-
+    css: Kfyin.css
 
 
 
