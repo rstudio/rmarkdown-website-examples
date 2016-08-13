@@ -16,6 +16,8 @@ navbar:
       href: inscription.html
     - text: "Partenaires et Sponsors"
       href: partenaires.html
+    - text: "Informations pratiques"
+      href: Information.html
 
       right:
     - text: R
