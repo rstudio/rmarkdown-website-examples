@@ -6,7 +6,7 @@ title: "Comités"
 
 ### **Comité scientifique**
 
--    Aurélien Latouche (CNAM, Paris) Président
+-    
 -    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente
 -    Philippe Saint Pierre (Toulouse I)
 -    Yannig Goude (EDF, Palaiseau)
