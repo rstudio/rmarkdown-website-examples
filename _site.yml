@@ -1,7 +1,6 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "Les sixièmes Rencontres R"
   type: inverse
   left:
     - text: "Acceuil"
