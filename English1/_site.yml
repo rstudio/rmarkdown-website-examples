@@ -1,0 +1,32 @@
+name: "my-website-english"
+output_dir: "."
+navbar:
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Submission"
+      href: about.html
+    - text: "Committee"
+      href: committee.html
+    - text: "Key Dates"
+      href: Dates.html
+    - text: "Registration"
+      href: inscription.html
+    - text: "Sponsors"
+      href: partenaires.html
+    - text: "Practical Informations"
+      href: Information.html
+    - text: R
+      href: https://cran.r-project.org/index.html
+    - text: Version Française
+      href: ../index.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: Kfyin.css
+
+
+

@@ -1,0 +1,31 @@
+---
+title: Submission
+---
+
+* * *
+
+Three types of presentations are possible in this meeting:
+
+- 20 min regular talks,
+- 6 min Lightning Talks*,
+- Posters.
+
+For every type of presentation, authors must provide a one or two page abstract. 
+
+This document must be submitted in **PDF** format, using one of the following templates (Latex or Word):
+
+[**gabarit_RR.tex**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.tex)
+
+[**gabarit_RR.odt**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.odt)
+
+[**gabarit_RR.doc**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.doc)
+
+[**gabarit_RR.Rmd (à décompresser)**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.Rmd.zip)     
+
+<font color="red"> **ATTENTION**: Submission procedure has not been opened yet but you can still send your **PDF** submission **PDF** to  benoit.liquet@univ-pau.fr </font>
+
+Abstract submission deadline is set to **April 7, 2015**.
+
+
+* Lightning Talks are 6 minute talks allowing speakers to address a subject of their choice related to R. The speaker will have to provide 13 slides to be displayed during the presentation (one slide every 24 seconds).
+
