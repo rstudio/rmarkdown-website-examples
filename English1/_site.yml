@@ -4,19 +4,19 @@ navbar:
   type: inverse
   left:
     - text: "Home"
-      href: rmarkdown-website-examples-English/index.html
+      href: English1/index.html
     - text: "Submission"
-      href: rmarkdown-website-examples-English/about.html
+      href: English1/about.html
     - text: "Committee"
-      href: rmarkdown-website-examples-English/committee.html
+      href: English1/committee.html
     - text: "Key Dates"
-      href: rmarkdown-website-examples-English/Dates.html
+      href: English1/Dates.html
     - text: "Registration"
-      href: rmarkdown-website-examples-English/inscription.html
+      href: English1/inscription.html
     - text: "Sponsors"
-      href: rmarkdown-website-examples-English/partenaires.html
+      href: English1/partenaires.html
     - text: "Practical Informations"
-      href: rmarkdown-website-examples-English/Information.html
+      href: English1/Information.html
     - text: R
       href: https://cran.r-project.org/index.html
     - text: Version Française

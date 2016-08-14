@@ -20,7 +20,7 @@ navbar:
     - text: R
       href: https://cran.r-project.org/index.html
     - text: English version
-      href: rmarkdown-website-examples-English/index.html
+      href: English1/index.html
 
 output:
   html_document:
