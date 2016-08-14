@@ -17,8 +17,10 @@ navbar:
       href: partenaires.html
     - text: "Informations pratiques"
       href: Information.html
-    - icon: favicon
+    - text: R
       href: https://cran.r-project.org/index.html
+    - text: English version
+      href: rmarkdown-website-examples-English/index.html
 
 output:
   html_document:
