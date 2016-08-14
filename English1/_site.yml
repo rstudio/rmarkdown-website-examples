@@ -4,19 +4,19 @@ navbar:
   type: inverse
   left:
     - text: "Home"
-      href: English1/index.html
+      href: index.html
     - text: "Submission"
-      href: English1/about.html
+      href: about.html
     - text: "Committee"
-      href: English1/committee.html
+      href: committee.html
     - text: "Key Dates"
-      href: English1/Dates.html
+      href: Dates.html
     - text: "Registration"
-      href: English1/inscription.html
+      href: inscription.html
     - text: "Sponsors"
-      href: English1/partenaires.html
+      href: partenaires.html
     - text: "Practical Informations"
-      href: English1/Information.html
+      href: Information.html
     - text: R
       href: https://cran.r-project.org/index.html
     - text: Version Française
