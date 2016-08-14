@@ -4,11 +4,11 @@ navbar:
   type: inverse
   left:
     - text: "Home"
-      href: ../index.html
+      href: index.html
     - text: "Submission"
-      href: ../about.html
+      href: about.html
     - text: "Committee"
-      href: ../committee.html
+      href: committee.html
     - text: "Key Dates"
       href: Dates.html
     - text: "Registration"
