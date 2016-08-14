@@ -1,0 +1,32 @@
+name: "my-website-english"
+output_dir: "."
+navbar:
+  type: inverse
+  left:
+    - text: "Home"
+      href: rmarkdown-website-examples-English/index.html
+    - text: "Submission"
+      href: rmarkdown-website-examples-English/about.html
+    - text: "Committee"
+      href: rmarkdown-website-examples-English/committee.html
+    - text: "Key Dates"
+      href: rmarkdown-website-examples-English/Dates.html
+    - text: "Registration"
+      href: rmarkdown-website-examples-English/inscription.html
+    - text: "Sponsors"
+      href: rmarkdown-website-examples-English/partenaires.html
+    - text: "Practical Informations"
+      href: rmarkdown-website-examples-English/Information.html
+    - text: R
+      href: https://cran.r-project.org/index.html
+    - text: Version Française
+      href: ../index.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: Kfyin.css
+
+
+

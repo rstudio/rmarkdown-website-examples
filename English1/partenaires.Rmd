@@ -1,0 +1,20 @@
+---
+title: "PARTENAIRES ET SPONSORS"
+---
+
+***
+
+###**Sponsors**
+
+
+###**Partenaires académiques**
+<div style="width:200px; height:200px">
+![](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/Uppa.png)
+</div><div style="width:200px; height:200px">
+![](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/Cnrs.png)
+</div>  
+
+###**Une manifestation parrainée par...**
+<div style="width:200px; height:200px">
+![](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/sfds.png)
+</div>  
