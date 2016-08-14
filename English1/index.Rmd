@@ -3,15 +3,25 @@
   ![](http://angletr2017.com/FIG/Anglet-1.png)
   
 ## *Home*
-Suite au succès des précédentes Rencontres R ([Bordeaux](http://r2012.bordeaux.inria.fr/), [Lyon](https://r2013-lyon.sciencesconf.org/), [Montpellier](https://r2014-mtp.sciencesconf.org/), [Grenoble](https://r2015-grenoble.sciencesconf.org/) et [Toulouse](https://r2016-toulouse.sciencesconf.org/)), la sixième édition se déroulera à Anglet sur le site du Parc Montaury ([UFR Sciences et Techniques de la Côte Basque](http://ufr-sciences-cb.univ-pau.fr/live/)) du 21 au 23 juin 2017. L'objectif de ces rencontres est de fournir à l'échelle nationale un lieu d'échange et de partage d'idées sur l'usage du logiciel R dans différentes disciplines (visualisation, statistique appliquée, biostatistique et bioinformatique, statistique bayésienne, analyse des données, Big Data, modélisation, machine learning, high performance computing...).
+After the successful French R Meetings of ([Bordeaux](http://r2012.bordeaux.inria.fr/), [Lyon](https://r2013-lyon.sciencesconf.org/), [Montpellier](https://r2014-mtp.sciencesconf.org/), [Grenoble](https://r2015-grenoble.sciencesconf.org/) and [Toulouse](https://r2016-toulouse.sciencesconf.org/)), our sixth meeting will take place in Anglet at the ``Parc Montaury'' ([UFR Sciences et Techniques de la Côte Basque](http://ufr-sciences-cb.univ-pau.fr/live/)) on 21-23 June 2017.  Its aim is to provide a national forum to exchange and share ideas on the use of R in different subjects such as visualisation, applied statistics, biostatistics and bioinformatics, Bayesian statistics, data analysis, Big Data, modelling, machine learning, high performance computing, etc. 
 
-Une série de tutoriels sur des aspects de R spécifiques ou avancés sera proposée aux participants de ces rencontres R le mercredi 21 juin.
+A series of tutorials on specific or advanced R topics will be proposed to the conference attendees in the afternoon of Wednesday, June 21.
 
-## *Public concerné*
-Ces rencontres sont destinées à tous types d’utilisateurs de R : chercheurs, enseignants, étudiants, professionnels... Elles sont ouvertes aux statisticiens, aux informaticiens et à tous les domaines d’application. Elles s'adressent aussi bien aux débutants qu'aux utilisateurs confirmés et expérimentés.
 
-La langue officielle du congrès est le français mais des présentations peuvent être faites en anglais.
 
+## *Topics*
+The programme will consist of plenary sessions, oral presentations, lightning talks and posters (see Submission page for more details) focusing on:
+
+- new developments in statistics and their implementation in R
+- new extensions
+- original applications and case studies using R in different domains and fields (-omics, bioinformatics, environment, psychometrics, social science, chemometrics, etc.)
+- Computational aspects of R (parallel processing, visualization, interfacing with other software, graphical user interface,etc.)
+- teaching with  R.
+
+
+This meeting is intended to everyone interested in R: Researchers, teachers, people from industries, students, etc... It is built for both beginners and advanced R users. Statisticians and informaticians are welcomed, as well as well-wishers from every area where R can be useful.
+
+The official language is French but talks can be given in English.
  
 
 
