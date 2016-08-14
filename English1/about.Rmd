@@ -4,15 +4,15 @@ title: Submission
 
 * * *
 
-Trois types de communications sont prévus durant ces rencontres :
+Three types of presentations are possible in this meeting:
 
-- Des communications libres de 20 mn,
-- Des Lightning Talks* de 6 mn,
-- Des posters.
+- 20 min regular talks,
+- 6 min Lightning Talks*,
+- Posters.
 
-Un résumé d'une à deux pages est demandé pour ces trois types de communications, en plus du résumé court qui est à entrer dans le formulaire de soumission (quelques lignes pour ce dernier, au format texte simple). 
+For every type of presentation, authors must provide a one or two page abstract. 
 
-Les résumés doivent être soumis au format **PDF** en utilisant l'un des gabarits (Latex, LibreOffice, Word ou RMarkdown) suivants :
+This document must be submitted in **PDF** format, using one of the following templates (Latex or Word):
 
 [**gabarit_RR.tex**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.tex)
 
@@ -22,10 +22,10 @@ Les résumés doivent être soumis au format **PDF** en utilisant l'un des gabar
 
 [**gabarit_RR.Rmd (à décompresser)**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.Rmd.zip)     
 
-<font color="red"> **ATTENTION**: Le dépôts des communications n'est pas encore ouvert mais vous pouvez déja envoyer votre **PDF** à  benoit.liquet@univ-pau.fr </font>
+<font color="red"> **ATTENTION**: Submission procedure has not been opened yet but you can still send your **PDF** submission **PDF** to  benoit.liquet@univ-pau.fr </font>
 
-La date limite pour les soumissions est fixée au **8 avril 2017**.
+Abstract submission deadline is set to **April 7, 2015**.
 
 
-*Les Lightning Talks sont des plateformes de 6 minutes permettant aux participants de parler d’un sujet de leur choix en lien avec R. L’orateur devra fournir 13 transparents pour accompagner sa présentation pendant laquelle un transparent sera affiché toutes les 24 secondes.
+* Lightning Talks are 6 minute talks allowing speakers to address a subject of their choice related to R. The speaker will have to provide 13 slides to be displayed during the presentation (one slide every 24 seconds).
 

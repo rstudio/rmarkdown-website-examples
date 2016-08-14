@@ -4,7 +4,7 @@ title: "Committee"
 
 ***
 
-### **Comité scientifique**
+### **Program committee**
 
 -    
 -    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente
@@ -13,7 +13,7 @@ title: "Committee"
 -    Pierre Lafaye de Micheaux 
 
 
-### **Comité d'organisation**
+### **Organization committee**
 
 -    Benoit Liquet (UPPA, LMAP) Président
 -    Christian Paroissin (UPPA, LMAP ) Vice-président

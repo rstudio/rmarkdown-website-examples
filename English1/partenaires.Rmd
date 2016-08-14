@@ -7,14 +7,14 @@ title: "PARTENAIRES ET SPONSORS"
 ###**Sponsors**
 
 
-###**Partenaires académiques**
+###**Academic Partenership**
 <div style="width:200px; height:200px">
-![](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/Uppa.png)
+![](http://angletr2017.com/FIG/Uppa.png)
 </div><div style="width:200px; height:200px">
-![](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/Cnrs.png)
+![](http://angletr2017.com/FIG/Cnrs.png)
 </div>  
 
-###**Une manifestation parrainée par...**
+###**Partnership**
 <div style="width:200px; height:200px">
-![](/Users/liquetwe/Dropbox/WEB-SITE-BENOIT/benoit-liquet.github.io/rmarkdown-website-examples/FIG/sfds.png)
+![](http://angletr2017.com/FIG/sfds.png)
 </div>  
