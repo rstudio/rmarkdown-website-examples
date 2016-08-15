@@ -3,4 +3,17 @@ title: "PRACTICAL INFORMATIONS "
 ---
 
 ***
+```{dd, echo=FALSE}
+library(googleVis)
+library(ggmap)
+```
 
+```{dd, echo=FALSE}
+locus="Allée du Parc Montaury, Anglet, France"
+myMap <- get_map(location=locus, zoom= 16, source="google", 
+                 maptype="roadmap", crop=TRUE)
+```
+
+```{ddd,echo=FALSE}
+ggmap(myMap)  
+```
