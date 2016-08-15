@@ -23,5 +23,6 @@ This meeting is intended to everyone interested in R: Researchers, teachers, peo
 
 The official language is French but talks can be given in English.
  
+<center>[**Conference Flyer**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Anglet_Journees_R.png)</center>
 
 
