@@ -4,3 +4,31 @@ title: "INFORMATIONS PRATIQUES "
 
 ***
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,message = FALSE)
+```
+
+***
+```{r es, echo=FALSE,warning=FALSE}
+library(googleVis)
+library(ggmap)
+library(ggplot2)
+```
+
+```{r es2, echo=FALSE,,warning=FALSE}
+locus="Allée du Parc Montaury, Anglet, France"
+myMap <- get_map(location=locus, zoom= 16, source="google", 
+                 maptype="roadmap", crop=TRUE)
+```
+
+```{r es3,echo=FALSE,,warning=FALSE}
+##ggmap(myMap,extend="device")
+```
+
+```{r es4,echo=FALSE,,warning=FALSE}
+library(leaflet)
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-1.509304, lat=43.479965, popup="The birthplace of R")
+m
+```
