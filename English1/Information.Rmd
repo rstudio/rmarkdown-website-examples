@@ -20,5 +20,15 @@ myMap <- get_map(location=locus, zoom= 16, source="google",
 ```
 
 ```{r es3,echo=FALSE,,warning=FALSE}
-ggmap(myMap,extend="device")
+##ggmap(myMap,extend="device")
 ```
+
+```{r es4,echo=FALSE,,warning=FALSE}
+library(leaflet)
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=43.479965, lat=-1.509304, popup="The birthplace of R")
+m
+```
+
+ 
