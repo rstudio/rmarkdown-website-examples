@@ -8,13 +8,12 @@ title: "SPONSORS"
 
 
 ###**Academic Partenership**
-<div style="width:200px; height:200px">
-![](http://angletr2017.com/FIG/Uppa.png)
-</div><div style="width:200px; height:200px">
-![](http://angletr2017.com/FIG/Cnrs.png)
-</div>  
+<img src="http://angletr2017.com/FIG/Uppa.png" alt="some text"
+width="60" height="60">\phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Cnrs.png" alt="some text"
+width="60" height="60">
+
+  
 
 ###**Partnership**
-<div style="width:200px; height:200px">
-![](http://angletr2017.com/FIG/sfds.png)
-</div>  
+<img src="http://angletr2017.com/FIG/sfds.png" alt="some text"
+width="60" height="60">
