@@ -6,14 +6,16 @@ title: "SPONSORS"
 
 ###**Sponsors**
 
+-
+-
 
 ###**Academic Partenership**
 <img src="http://angletr2017.com/FIG/Uppa.png" alt="some text"
-width="60" height="60">\phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Cnrs.png" alt="some text"
-width="60" height="60">
+width="100" height="100">\phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Cnrs.png" alt="some text"
+width="100" height="100">
 
   
 
 ###**Partnership**
 <img src="http://angletr2017.com/FIG/sfds.png" alt="some text"
-width="60" height="60">
+width="100" height="100">
