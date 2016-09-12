@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   type: inverse
   left:
-    - text: "Acceuil"
+    - text: "Accueil"
       href: index.html
     - text: "Appel à communications"
       href: about.html
