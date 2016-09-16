@@ -7,7 +7,7 @@ title: "Comités"
 ### **Comité scientifique**
 
 -    Aurélien Latouche (Cnam, Paris) Président, email : aurelien.latouche@cnam.fr
--    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente, email : julie.josserennes@gmail.com
+-    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente, email : julie.josserennes@gmail.com (http://juliejosse.com/)
 -    Philippe Saint Pierre (Toulouse I), email : Philippe.Saint-Pierre@math.univ-toulouse.fr
 -    Yannig Goude (EDF, Palaiseau), email : yannig.goude@edf.fr
 -    Pierre Lafaye de Micheaux (CREST, Rennes), email : lafaye@dms.umontreal.ca
