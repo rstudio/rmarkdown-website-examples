@@ -1,0 +1,20 @@
+---
+title: "Program"
+---
+
+***
+
+##**Invited Speaker** 
+  
+- Thomas Gerds (Danemark, University of Copenhagen): *Sensitivity analysis using lava simulation*
+- Joel Gombin (France): *Data Journalisme*
+- Julie Bertrand (France, Paris-Diderot and UCL): *RStan*
+- Farouk Nathoo (Canada: University of Victoria): *Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*
+
+## **Tutorials (Wednesday 28 June afternoon)**
+
+- *Reproducible documents with Rstudio, Markdown, Github*. Presented by Nicholas Tierney (Australia) and Benoit Liquet (France)
+
+- *Manipulations avec dplyr et visualisation avec ggplot2*. Presented by  Diane Beldame (France: http://www.thinkr.fr/)
+
+
