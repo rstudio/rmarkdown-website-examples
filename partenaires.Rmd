@@ -6,7 +6,8 @@ title: "PARTENAIRES ET SPONSORS"
 
 ###**Sponsors**
 
--
+- <img src="http://angletr2017.com/FIG/Capionis.png" alt="some text"
+width="150" height="150">
 -
 
 
