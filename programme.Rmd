@@ -7,7 +7,7 @@ title: "Programme"
 ##**Conférenciers invités ** 
   
 - Thomas Gerds (Danemark, University of Copenhagen): *Sensitivity analysis using lava simulation*
-- Joel Gombin (France): *Data Journalisme*
+- Joel Gombin (from datactivist, http://www.datactivi.st): *Faut-il coder pour être (data)journaliste ? Comment les rédactions peuvent utiliser R*
 - Julie Bertrand (France, Paris-Diderot and UCL): *RStan*
 - Farouk Nathoo (Canada: University of Victoria): *Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*
 
