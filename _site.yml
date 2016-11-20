@@ -13,7 +13,7 @@ navbar:
       href: Dates.html
     - text: "Inscriptions"
       href: inscription.html
-    - text: "Partenaires et Sponsors"
+    - text: "Partenaires-Sponsors"
       href: partenaires.html
     - text: "Programme"
       href: programme.html
