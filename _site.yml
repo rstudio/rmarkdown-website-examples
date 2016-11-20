@@ -19,8 +19,6 @@ navbar:
       href: programme.html
     - text: "Informations pratiques"
       href: Information.html
-    - text: R
-      href: https://cran.r-project.org/index.html
     - text: English version
       href: English1/index.html
 
