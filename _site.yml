@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Accueil"
       href: index.html
-    - text: "Appel à communications"
+    - text: "Communications"
       href: about.html
     - text: "Comités"
       href: committee.html
