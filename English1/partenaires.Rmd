@@ -19,4 +19,5 @@ width="100" height="100">
 
 ###**Partnership**
 <img src="http://angletr2017.com/FIG/sfds.png" alt="some text"
-width="100" height="100">
+width="100" height="100"> \phantom{-------------} \hspace{5cm}
+<img src="http://angletr2017.com/FIG/logo-sfe-fond-blanc.jpg" alt="some text" width="100" height="100">
