@@ -4,13 +4,16 @@ title: "INSCRIPTIONS"
 
 ***
 
-<font color="red"> Les inscriptions ne sont pas encore ouvertes </font>
+<font color="red"> Les inscriptions sont ouvertes </font>
 
 Le tarif des inscriptions est :
 
 - **Tarif normal** : 126 euros TTC
+[Ici pour le tarif normal](https://paiement-colloques.univ-pau.fr/cgi-bin/pbox.py?seminar=ANGLETR2017&total=126)
 - **Inscription tardive** (après le 30 avril)  : 180 euros TTC
-- **Tarif étudiant** : 90 euros TTC
+[Ici pour les dernieres minutes](https://paiement-colloques.univ-pau.fr/cgi-bin/pbox.py?seminar=ANGLETR2017&total=180)
+- **Tarif étudiant** : 90 euros TTC 
+[Ici pour les étudiants](https://paiement-colloques.univ-pau.fr/cgi-bin/pbox.py?seminar=ANGLETR2017&total=90)
 
 Le tarif de l'inscription comprend le repas du gala du jeudi soir et les déjeuners de jeudi et vendredi midi.
 

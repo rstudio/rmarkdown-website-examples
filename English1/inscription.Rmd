@@ -4,13 +4,13 @@ title: "REGISTRATION"
 
 ***
 
-<font color="red"> Registration are not opened yet </font>
+<font color="red"> Registration are now opened  </font>
 
 Registration fee:
 
-- **Early fee registration**: 126 euros TTC
-- **Late registration** (after April 30 2017): 180 euros TTC
-- **Student fee**: 90 euros TTC
+- **Early fee registration**: 126 euros TTC. [For Early fee registration](https://paiement-colloques.univ-pau.fr/cgi-bin/pbox.py?seminar=ANGLETR2017&total=126)
+- **Late registration** (after April 30 2017): 180 euros TTC [For late registration](https://paiement-colloques.univ-pau.fr/cgi-bin/pbox.py?seminar=ANGLETR2017&total=180)
+- **Student fee**: 90 euros TTC. [For student](https://paiement-colloques.univ-pau.fr/cgi-bin/pbox.py?seminar=ANGLETR2017&total=90)
 
 This fee allows to participate in the various talks sessions. It also covers the coffee breaks  lunch on Thursday and Friday as well as the buffet supper on Thursday evening.
 
