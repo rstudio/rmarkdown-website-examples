@@ -22,7 +22,7 @@ Les résumés doivent être soumis au format **PDF** en utilisant l'un des gabar
 
 [**gabarit_RR.Rmd (à décompresser)**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.Rmd.zip)     
 
-<font color="red"> **ATTENTION**: Le dépôts des communications n'est pas encore ouvert mais vous pouvez déja envoyer votre **PDF** à  benoit.liquet@univ-pau.fr </font>
+<font color="red"> **ATTENTION**: Le dépôts des communications n'est pas encore ouvert mais vous pouvez déja envoyer votre **PDF** à  angletr2017@sciencesconf.org </font>
 
 La date limite pour les soumissions est fixée au **8 avril 2017**.
 
