@@ -10,7 +10,7 @@ title: "Comités"
 -    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente, email : julie.josserennes@gmail.com (http://juliejosse.com/)
 -    Philippe Saint Pierre (Toulouse I), email : Philippe.Saint-Pierre@math.univ-toulouse.fr
 -    Yannig Goude (EDF, Palaiseau), email : yannig.goude@edf.fr
--    Pierre Lafaye de Micheaux (CREST, Rennes), email : lafaye@dms.umontreal.ca
+-    Pierre Lafaye de Micheaux (CREST, Rennes), email : lafaye@dms.umontreal.ca (http://biostatisticien.eu)
 
 
 ### **Comité d'organisation**
