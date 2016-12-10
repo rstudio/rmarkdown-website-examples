@@ -7,6 +7,7 @@ title: "SPONSORS"
 ###**Sponsors**
 
 - <img src="http://angletr2017.com/FIG/Capionis.png" alt="some text"
+width="150" height="150">  \phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Datacamp.png" alt="some text"
 width="150" height="150">
 -
 
