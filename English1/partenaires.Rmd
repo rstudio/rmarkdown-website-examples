@@ -7,9 +7,16 @@ title: "SPONSORS"
 ###**Sponsors**
 
 - <img src="http://angletr2017.com/FIG/Capionis.png" alt="some text"
-width="150" height="150">  \phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Datacamp.png" alt="some text"
+width="150" height="150"> \phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Datacamp.png" alt="some text"
 width="150" height="150">
--
+-<img src="http://angletr2017.com/FIG/Danone.png" alt="some text"
+width="150" height="150"> \phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Inbox.png" alt="some text"
+width="150" height="150">
+
+- <img src="http://angletr2017.com/FIG/Datastorm.png" alt="some text"
+width="150" height="150"> \phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/RStudio.png" alt="some text"
+width="150" height="150">\hspace{5cm}<img src="http://angletr2017.com/FIG/thinkr.png" alt="some text"
+width="150" height="150">
 
 ###**Academic Partenership**
 <img src="http://angletr2017.com/FIG/Uppa.png" alt="some text"
