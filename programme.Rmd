@@ -16,6 +16,6 @@ title: "Programme"
 
 - *Reproductible documents avec Rstudio, Markdown, Github*. Animé par Nicholas Tierney (Australia) et Benoit Liquet (France)
 
-- *Manipulation de données avec {dplyr} dans le tidyverse*. Animé par Diane Beldame (France: http://www.thinkr.fr/) kk
+- *Manipulation de données avec {dplyr} dans le tidyverse*. Animé par Diane Beldame (France: http://www.thinkr.fr/) 
 
 
