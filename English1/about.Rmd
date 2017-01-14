@@ -22,7 +22,10 @@ This document must be submitted in **PDF** format, using one of the following te
 
 [**gabarit_RR.Rmd (à décompresser)**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.Rmd.zip)     
 
-<font color="red"> **ATTENTION**: Submission procedure has not been opened yet but you can still send your **PDF** submission **PDF** to  angletr2017@sciencesconf.org </font>
+<font color="red">  Submission procedure is now opened. Submit your **PDF** file using this link https://angletr2017.sciencesconf.org </font>
+
+<font color="green"> For any issue, use this email angletr2017@sciencesconf.org</font> 
+
 
 Abstract submission deadline is set to **April 7, 2015**.
 
