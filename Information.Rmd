@@ -32,3 +32,59 @@ m <- leaflet() %>%
   addMarkers(lng=-1.509304, lat=43.479965, popup="The place to be")
 m
 ```
+
+## Se loger
+
+Afin de bénéficier des tarifs négociés par l'office de tourisme d'Anglet, nous vous demandons d'effectuer votre réservation par email  à reservation@anglet-tourisme.com en indiquant:
+
+- l'Hotel choisi
+- le type de chambre (single ou double)
+- la date d'arrivée et de départ
+- leur adresse, numéro de portable.
+
+Un contrat vous sera envoyé et vous n'aurez pas de taxe de séjour à régler à votre arrivée.
+
+
+**Hôtels partenaires de la conférence:**
+
+- [HOTEL NOVOTEL****](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/novotel-resort--spa-biarritz-anglet-ang003_TFOHOTAQU06401SGM8T.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 110 € (petit-déjeuner inclus) -  Tarif double : 115 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+- [HOTEL IBIS BIARRITZ ANGLET***](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-ibis-biarritz-anglet-aeroport_TFOHOTAQU06401SGNKR.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 87 € (petit-déjeuner inclus) -  Tarif double : 97 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+
+
+- [HOTEL ATLANHAL****](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-atlanthal-ang004_TFOHOTAQU06401SGM8P.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 124 € (petit-déjeuner inclus) -  Tarif double : 184 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+
+- [HOTEL LES TERRASSES D'ATLANTHAL***](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-les-terrasses-d-atlanthal-ang005_TFOHOTAQU06401SGMOM.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 93 € (petit-déjeuner inclus) -  Tarif double : 132 € (petit-déj inclus). Taxe de séjour à
+régler sur place.**
+
+- [HOTEL ALTICA**](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-altica-ang007_TFOHOTAQU06401SGML8.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 93 € (petit-déjeuner inclus) -  Tarif double : 132 €
+(petit-déjEUNER inclus). Taxe de séjour à régler sur place.**
+
+- [HOTEL RESIDENCE ANGLET BIARRITZ PARME](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/residence-hoteliere/anglet/residence-anglet-biarritz-parme-ang011_TFORETAQU06401SGMPE.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiResidencesV01|Defaut|0|1|MoVide&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 87,70 € (petit-déjeuner inclus) -  Tarif double :
+66,35 € (petit-déj inclus). Taxe de séjour à régler sur place.**
+
+
+
+- [AZUREVA](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/village-vacances/anglet/azureva-anglet-ang012_TFOVILAQU06401SGMRH.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiVillagesVacancesResidencesTourismeV01|Defaut|0|1|MoVide&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 65,50 € (petit-déjeuner inclus) -  Tarif double : 72 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+
