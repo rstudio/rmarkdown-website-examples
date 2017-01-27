@@ -72,8 +72,8 @@ régler sur place.**
 
 - [HOTEL ALTICA**](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-altica-ang007_TFOHOTAQU06401SGML8.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
 
-**Tarif Single : 93 € (petit-déjeuner inclus) -  Tarif double : 132 €
-(petit-déjEUNER inclus). Taxe de séjour à régler sur place.**
+**Tarif Single : 75 € (petit-déjeuner inclus) -  Tarif double : 83,50 €
+(petit-déjeuner inclus). Taxe de séjour à régler sur place.**
 
 - [HOTEL RESIDENCE ANGLET BIARRITZ PARME](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/residence-hoteliere/anglet/residence-anglet-biarritz-parme-ang011_TFORETAQU06401SGMPE.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiResidencesV01|Defaut|0|1|MoVide&prefixeInst=we12&layerId=id0)
 
