@@ -19,6 +19,7 @@ title: "Committee"
 -    Christian Paroissin (UPPA, LMAP ) Vice-président, email : christian.paroissin@univ-pau.fr
 -    Noelle Bru (UPPA, LMAP), email : noelle.bru@univ-pau.fr
 -    Sylvere Besse (UPPA), email : sylvere.besse@univ-pau.fr
+-    Yann Lalanne (UPPA), email : yann.lalanne@univ-pau.fr
 -    Camilo Broc (UPPA, LMAP), email : camilo.broc@ecl13.ec-lyon.fr
 -    François Rigal (UPPA, Equipe Environnement et Microbiologie), email :francois.rigal@univ-pau.fr
 
