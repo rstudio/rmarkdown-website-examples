@@ -20,6 +20,9 @@ title: "Committee"
 -    Noelle Bru (UPPA, LMAP), email : noelle.bru@univ-pau.fr
 -    Sylvere Besse (UPPA), email : sylvere.besse@univ-pau.fr
 -    Yann Lalanne (UPPA), email : yann.lalanne@univ-pau.fr
--    Camilo Broc (UPPA, LMAP), email : camilo.broc@ecl13.ec-lyon.fr
+-    Camilo Broc (UPPA, LMAP), email : camilo.broc@univ-pau.fr
 -    François Rigal (UPPA, Equipe Environnement et Microbiologie), email :francois.rigal@univ-pau.fr
+-    Bruno Demoisy (UPPA, LMAP), email : bruno.demoisy@univ-pau.fr 
+-    Sophie Hontebeyrie (UPPA, LMAP), email : sophie.hontebeyrie@univ-pau.fr 
+-    Sylvie Berton (UPPA, LMAP), email : sylvie.berton@univ-pau.fr 
 
