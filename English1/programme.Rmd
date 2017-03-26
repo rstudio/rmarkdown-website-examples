@@ -5,8 +5,7 @@ title: "Program"
 ***
 
 ##**Invited Speaker** 
-- Anthony Richardson (Australia, University of Queensland):
-*the impact of climate change on the marine ecosystem*
+- Special Guest to be confirmed soon on *Ecololy using R*  
 - Thomas Gerds (Danemark, University of Copenhagen): *Sensitivity analysis using lava simulation*
 - Joel Gombin (from datactivist, http://www.datactivi.st): *Data Journalisme*
 - Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): *Bayesian approach in pharmacogenetics with JAGS and RStan* UMR 1137 INSERM University Paris Diderot
