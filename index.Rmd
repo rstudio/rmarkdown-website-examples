@@ -23,6 +23,5 @@ Ces rencontres sont destinées à tous types d’utilisateurs de R : chercheurs,
 
 La langue officielle du congrès est le français mais des présentations peuvent être faites en anglais.
 
-<center>[**Conference Flyer**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/Anglet_Journees_R.png)</center>
 
 <center>[**Conference Flyer**](https://github.com/benoit-liquet/rmarkdown-website-examples/blob/gh-pages/FIG/FlyerRencontreR_Proposition.pdf)</center>
