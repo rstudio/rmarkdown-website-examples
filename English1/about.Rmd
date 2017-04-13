@@ -27,7 +27,7 @@ This document must be submitted in **PDF** format, using one of the following te
 <font color="green"> For any issue, use this email angletr2017@sciencesconf.org</font> 
 
 
-Abstract submission deadline is set to **April 7, 2015**.
+Abstract submission deadline is set to **April 23, 2017**.
 
 
 * Lightning Talks are 6 minute talks allowing speakers to address a subject of their choice related to R. The speaker will have to provide 13 slides to be displayed during the presentation (one slide every 24 seconds).

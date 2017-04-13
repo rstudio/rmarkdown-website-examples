@@ -26,7 +26,7 @@ Les résumés doivent être soumis au format **PDF** en utilisant l'un des gabar
 
 <font color="green"> En cas de problème, veuillez contacter angletr2017@sciencesconf.org</font> 
 
-La date limite pour les soumissions est fixée au **8 avril 2017**.
+La date limite pour les soumissions est fixée au **23 avril 2017**.
 
 
 *Les Lightning Talks sont des plateformes de 6 minutes permettant aux participants de parler d’un sujet de leur choix en lien avec R. L’orateur devra fournir 13 transparents pour accompagner sa présentation pendant laquelle un transparent sera affiché toutes les 24 secondes.
