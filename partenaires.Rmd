@@ -19,7 +19,10 @@ width="150" height="150">\hspace{5cm}<img src="http://angletr2017.com/FIG/thinkr
 width="150" height="150">\hspace{5cm}<img src="http://angletr2017.com/FIG/Hupi.png" alt="some text" width="150" height="150">
 
 - <img src="http://angletr2017.com/FIG/Hyphen-logo-DEF-horizontale.jpg" alt="some text"
+width="150" height="150"> \phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/logo-methomics.png" alt="some text"
 width="150" height="150">
+
+
 
 ###**Partenaires académiques**
 <img src="http://angletr2017.com/FIG/Uppa.png" alt="some text"
