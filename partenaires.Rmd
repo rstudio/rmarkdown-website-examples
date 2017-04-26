@@ -33,7 +33,10 @@ width="200" height="250">\phantom{-------------}
 
 <img src="http://angletr2017.com/FIG/logo-amies.jpg" alt="some text"
 width="200" height="250">\phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Label_IA_30mm.jpg" alt="some text"
+width="200" height="250">\phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/logo_ACEMS.png" alt="some text"
 width="200" height="250">  
+
+
 
 ###**Une manifestation parrainée par...**
 <img src="http://angletr2017.com/FIG/sfds.png" alt="some text" width="100" height="100"> \phantom{-------------} \hspace{5cm}
