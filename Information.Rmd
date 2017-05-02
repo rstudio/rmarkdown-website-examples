@@ -15,7 +15,7 @@ library(ggmap)
 library(ggplot2)
 ```
 
-## Anglet c'est ou ?
+## Anglet c'est où ?
 
 ```{r es2, echo=FALSE,,warning=FALSE}
 locus="Allée du Parc Montaury, Anglet, France"
