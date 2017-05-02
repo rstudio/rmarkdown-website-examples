@@ -19,11 +19,12 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -94,7 +95,6 @@ button.code-folding-btn:focus {
 }
 </style>
 
-
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
@@ -151,6 +151,7 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -239,7 +240,7 @@ width="150" height="150"><img src="http://angletr2017.com/FIG/Hupi.png" alt="som
 width="150" height="150"></p></li>
 <li><p><img src="http://angletr2017.com/FIG/Hyphen-logo-DEF-horizontale.jpg" alt="some text"
 width="150" height="150">  <img src="http://angletr2017.com/FIG/logo-methomics.png" alt="some text"
-width="150" height="150"></p></li>
+width="150" height="150"><img src="http://angletr2017.com/FIG/Nouvelle_Aquitaine.png" alt="some text" width="150" height="150"></p></li>
 </ul>
 </div>
 <div id="academic-partenership" class="section level3">
@@ -268,13 +269,9 @@ width="100" height="100">   <img src="http://angletr2017.com/FIG/logo-sfe-fond-b
 <script>
 
 // add bootstrap table styles to pandoc tables
-function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
-}
 $(document).ready(function () {
-  bootstrapStylePandocTables();
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 });
-
 
 </script>
 
