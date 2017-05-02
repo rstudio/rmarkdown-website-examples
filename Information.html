@@ -13,17 +13,21 @@
 
 <title>INFORMATIONS PRATIQUES</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/htmlwidgets-0.5/htmlwidgets.js"></script>
-<link href="site_libs/leaflet-0.7.3/leaflet.css" rel="stylesheet" />
-<script src="site_libs/leaflet-0.7.3/leaflet.js"></script>
+<script src="site_libs/htmlwidgets-0.8/htmlwidgets.js"></script>
+<link href="site_libs/leaflet-0.7.7/leaflet.css" rel="stylesheet" />
+<script src="site_libs/leaflet-0.7.7/leaflet.js"></script>
 <link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
-<script src="site_libs/leaflet-binding-1.0.1/leaflet.js"></script>
+<link href="site_libs/leaflet-label-0.2.2/leaflet.label.css" rel="stylesheet" />
+<script src="site_libs/leaflet-label-0.2.2/leaflet.label.js"></script>
+<script src="site_libs/Proj4Leaflet-0.7.2/proj4-compressed.js"></script>
+<script src="site_libs/Proj4Leaflet-0.7.2/proj4leaflet.js"></script>
+<script src="site_libs/leaflet-binding-1.1.0/leaflet.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <link rel="stylesheet"
@@ -228,8 +232,33 @@ $(document).ready(function () {
 
 <hr />
 <hr />
-<div id="htmlwidget-8273" style="width:672px;height:480px;" class="leaflet"></div>
-<script type="application/json" data-for="htmlwidget-8273">{"x":{"calls":[{"method":"addTiles","args":["http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>"}]},{"method":"addMarkers","args":[43.479965,-1.509304,null,null,null,{"clickable":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The place to be",null,null]}],"limits":{"lat":[43.479965,43.479965],"lng":[-1.509304,-1.509304]}},"evals":[]}</script>
+<div id="anglet-cest-ou" class="section level2">
+<h2>Anglet c’est ou ?</h2>
+<div id="htmlwidget-bba6da4608eba2a43039" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-bba6da4608eba2a43039">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap\u003c/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA\u003c/a>"}]},{"method":"addMarkers","args":[43.479965,-1.509304,null,null,null,{"clickable":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The place to be",null,null,null,null,null,null]}],"limits":{"lat":[43.479965,43.479965],"lng":[-1.509304,-1.509304]}},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="comment-se-rendre-a-anglet" class="section level2">
+<h2>Comment se rendre à Anglet</h2>
+<ul>
+<li>Comment aller de l’aéroport au campus de Montaury (distance 2,6 km) ?
+<ul>
+<li>En taxi (compter 10 minutes)</li>
+<li>En bus (compter 20 minutes). Prendre la ligne 14, en direction de “Bayonne-Gare” et descendre à l’arrêt “Minerva”.</li>
+</ul></li>
+<li>Comment aller de la gare de Bayonne au campus de Montaury (distance : 5,5 km) ?
+<ul>
+<li>En taxi (compter 15 minutes)</li>
+<li>En bus (compter 25 minutes). Prendre la ligne 14, en direction de “Biarritz Cité Scolaire” et descendre à l’arrêt “Minerva”.</li>
+</ul></li>
+<li>Comment aller de la gare de Biarritz au campus de Montaury (distance 4.4 km) ?
+<ul>
+<li>En taxi (compter 12 minutes)</li>
+<li>En bus (compter 18 minutes). Prendre la ligne C, en direction de “Bayonne-Gare” et descendre à l’arrêt “Bernain”.</li>
+</ul></li>
+<li><img src="http://angletr2017.com/FIG/how-to-join-conference.png" alt="some text"
+width="450" height="150"></li>
+</ul>
+</div>
 <div id="se-loger" class="section level2">
 <h2>Se loger</h2>
 <p>Afin de bénéficier des tarifs négociés par l’office de tourisme d’Anglet, nous vous demandons d’effectuer votre réservation par email à <a href="mailto:reservation@anglet-tourisme.com">reservation@anglet-tourisme.com</a> en indiquant:</p>
