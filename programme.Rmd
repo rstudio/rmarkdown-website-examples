@@ -106,7 +106,6 @@ title: "Programme"
     - M. Gousseff. Une interface R-Shiny pour le choix de typologies sur variables qualitatives
     - M. Saumard. Fouille des données du jeu Mathador
     - M. Salmon. Comment je suis devenue crulote. 
-    - F. Privé. (The R package bigstatsr: Memory- and Computation-Efficient Statistical Tools for Big Matrices
     - E. Damitio. Bassins d’habitat pour les Pyrénées-Atlantiques 
     
 ## **Posters**    
