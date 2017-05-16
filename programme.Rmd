@@ -116,3 +116,5 @@ title: "Programme"
     - A. Siberchicot. Marey-Map Online : une application shiny pour estimer les taux de recombinaison grâce à l’approche par carte de Marey
     - E. Salette. Outil d’interprétation de score
     - C. Kermorvant. De nouveaux packages pour créer des plans d’échantillonnages spatialement équilibrés sous R
+    - O. Delaigue. airGRteaching : un package pour l’apprentissage de la modélisation hydrologique pluie-débit
+    
