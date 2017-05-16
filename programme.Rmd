@@ -107,6 +107,7 @@ title: "Programme"
     - M. Saumard. Fouille des données du jeu Mathador
     - M. Salmon. Comment je suis devenue crulote. 
     - E. Damitio. Bassins d’habitat pour les Pyrénées-Atlantiques 
+    - C. Paroissin. Le Dispositif ART : Apprentissage de R pour Tous / Aprendizaje de R para Todos
     
 ## **Posters**    
 
