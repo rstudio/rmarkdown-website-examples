@@ -109,6 +109,7 @@ title: "Programme"
     - E. Damitio. Bassins d’habitat pour les Pyrénées-Atlantiques 
     - C. Paroissin. Le Dispositif ART : Apprentissage de R pour Tous / Aprendizaje de R para Todos
     
+    
 ## **Posters**    
 
 - _Poster  : Jeudi 29 Juin_
@@ -118,4 +119,4 @@ title: "Programme"
     - E. Salette. Outil d’interprétation de score
     - C. Kermorvant. De nouveaux packages pour créer des plans d’échantillonnages spatialement équilibrés sous R
     - O. Delaigue. airGRteaching : un package pour l’apprentissage de la modélisation hydrologique pluie-débit
-    
+    - F. Rigal. Partitioning taxon, phylogenetic and functional beta diversity into replacement and richness difference components
