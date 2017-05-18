@@ -20,8 +20,8 @@ width="150" height="150">\hspace{5cm}<img src="http://angletr2017.com/FIG/Hupi.p
 
 - <img src="http://angletr2017.com/FIG/Hyphen-logo-DEF-horizontale.jpg" alt="some text"
 width="150" height="150"> \phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/logo-methomics.png" alt="some text"
-width="150" height="150">\hspace{5cm}<img src="http://angletr2017.com/FIG/Nouvelle_Aquitaine.png" alt="some text" width="150" height="150">\phantom{-------------} \hspace{5cm}<img src="http://angletr2017.com/FIG/Keyrus-logo.png" alt="some text"
-width="150" height="150">
+width="150" height="150">\hspace{5cm}<img src="http://angletr2017.com/FIG/Nouvelle_Aquitaine.png" alt="some text" width="150" height="150">\phantom{-------------} \hspace{5cm}[<img src="http://angletr2017.com/FIG/Keyrus-logo.png" alt="some text"
+width="150" height="150">](http://www.keyrus.fr/?utm_source=journeeR&utm_medium=journeeR&utm_campaign=journeeR&utm_term=journeeR&utm_content=journeeR)
 
 
 
