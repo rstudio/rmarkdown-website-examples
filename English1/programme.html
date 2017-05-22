@@ -19,12 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -95,6 +94,7 @@ button.code-folding-btn:focus {
 }
 </style>
 
+
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
@@ -151,7 +151,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -230,7 +229,7 @@ $(document).ready(function () {
 <ul>
 <li>Marie-Pierre Etienne (AgroParisTech/INRA): <em>Ecololy Analysis using R</em><br />
 </li>
-<li>Thomas Gerds (Danemark, University of Copenhagen): <em>Sensitivity analysis using lava simulation</em></li>
+<li>Thomas Gerds (Danemark, University of Copenhagen): <a href="https://angletr2017.com/Abstract_talk.html"><em>Sensitivity analysis using lava simulation</em></a></li>
 <li>Joel Gombin (from datactivist, <a href="http://www.datactivi.st" class="uri">http://www.datactivi.st</a>): <em>Data Journalisme</em></li>
 <li>Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): <em>Bayesian approach in pharmacogenetics with JAGS and RStan</em> UMR 1137 INSERM University Paris Diderot</li>
 <li>Farouk Nathoo (Canada: University of Victoria): <em>Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics</em></li>
@@ -250,7 +249,7 @@ $(document).ready(function () {
 </li>
 <li>10h-10h30 : Pause (Café, thé, …)</li>
 <li>10h30-11h30 : Session en paralèlle. S1 (Ecologie) et S2 (Modélisation)</li>
-<li>11h30-12h30 : <strong>Invited speaker</strong>;Thomas Gerds. <em>Sensitivity analysis using lava simulation</em></li>
+<li>11h30-12h30 : <strong>Invited speaker</strong>;Thomas Gerds. <a href="https://angletr2017.com/Abstract_talk.html"><em>Sensitivity analysis using lava simulation</em></a></li>
 <li>12h30-13h45 : Lunch et Poster</li>
 <li>13h45-15h00 : <em>Table ronde entreprise</em></li>
 <li>15h00-16h00 : <strong>Invited speaker</strong>: Joel Gombin. <em>Comment les rédactions peuvent utiliser R</em></li>
@@ -368,9 +367,13 @@ $(document).ready(function () {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
+
 
 </script>
 

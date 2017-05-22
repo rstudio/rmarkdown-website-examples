@@ -6,7 +6,7 @@ title: "Program"
 
 ##**Invited Speaker** 
 - Marie-Pierre Etienne (AgroParisTech/INRA): *Ecololy Analysis using R*  
-- Thomas Gerds (Danemark, University of Copenhagen): *Sensitivity analysis using lava simulation*
+- Thomas Gerds (Danemark, University of Copenhagen): [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
 - Joel Gombin (from datactivist, http://www.datactivi.st): *Data Journalisme*
 - Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): *Bayesian approach in pharmacogenetics with JAGS and RStan* UMR 1137 INSERM University Paris Diderot
 - Farouk Nathoo (Canada: University of Victoria): *Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*
@@ -22,7 +22,7 @@ title: "Program"
 - 9h-10h :  **Invited speaker**; Marie-Pierre Etienne. *Ecology Analysis using R*  
 - 10h-10h30 : Pause (Café, thé, ...)
 - 10h30-11h30 : Session en paralèlle. S1 (Ecologie) et S2 (Modélisation) 
-- 11h30-12h30 : **Invited speaker**;Thomas Gerds. *Sensitivity analysis using lava simulation*
+- 11h30-12h30 : **Invited speaker**;Thomas Gerds. [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
 - 12h30-13h45 : Lunch et Poster
 - 13h45-15h00 : _Table ronde entreprise_
 - 15h00-16h00 : **Invited speaker**: Joel Gombin. *Comment les rédactions peuvent utiliser R*
