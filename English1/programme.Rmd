@@ -9,7 +9,7 @@ title: "Program"
 - Thomas Gerds (Danemark, University of Copenhagen): [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
 - Joel Gombin (from datactivist, http://www.datactivi.st): *Data Journalisme*
 - Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): *Bayesian approach in pharmacogenetics with JAGS and RStan* UMR 1137 INSERM University Paris Diderot
-- Farouk Nathoo (Canada: University of Victoria): *Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*
+- Farouk Nathoo (Canada: University of Victoria): [*Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*](https://angletr2017.com/Abstract_talk.html)
 
 ## **Tutorials (Wednesday 28 June afternoon)**
 
@@ -36,7 +36,7 @@ title: "Program"
 - 9h00-10h00 : **Invited speaker**; Julie Bertrand. *Approche Bayésienne en pharmacogénétique avec JAGS et RStan*
 - 10h-10h30 : Pause (Café, thé, ...)
 - 10h30-11h30 : Session en paralèlle. S5 (Bayesian) et S6 (Shiny)
-- 11h30-12h30 :  **Invited speaker**; Farouk Nathoo. *Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*
+- 11h30-12h30 :  **Invited speaker**; Farouk Nathoo. [*Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*](https://angletr2017.com/Abstract_talk.html)
 - 12h30-13h45 : Lunch 
 - 13h45-14h45 : Session S7 (visualisation)
 - 14h45-15h30 : 7 lightning talks (L2)

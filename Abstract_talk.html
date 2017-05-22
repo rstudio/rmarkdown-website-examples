@@ -4,7 +4,7 @@
 
 <head>
 
-<meta charset="utf-8">
+<meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 
@@ -224,6 +224,10 @@ $(document).ready(function () {
 <h2>Thomas Gerds: Sensitivity analysis using lava simulation</h2>
 <p>In this talk I will introduce the simulation functions of the R-package lava (Klaus K Holst, 2006-2017, <a href="https://github.com/kkholst/lava" class="uri">https://github.com/kkholst/lava</a>). I will demonstrate how to utilize these tools to perform a sensitivity analysis for a given regression analysis. The first step is to simulate data that are alike the real data under the substantive model which was fitted to the real data for the original regression analysis. To do this we specify a structural equation model for the joint distribution of all variables; in addition to the substantive model which describes the relation between outcome and predictors, this requires parametric models for the interrelationships of the predictor variables. Simulated data under the so obtained system of structural equations should be alike the real data. The second step is then to introduce various deviations from the substantive model in order to study the robustness of the results found in the real data. Which deviations are of particular interest depends very much on the subject matter question and are difficult to discuss in great generality. For the sole purpose of illustration I will simulate data that are alike the pbc data of the survival package, and study the sensitivity of a Cox regression analysis to the existence of an unobserved confounder.</p>
 </div>
+<div id="farouk-nathoo-bayesian-group-sparse-multi-task-regression-for-imaging-genetics" class="section level2">
+<h2>Farouk Nathoo: Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics</h2>
+<p>Recent advances in technology for brain imaging and high-throughput genotyping have motivated studies examining the influence of genetic variation on brain structure. In this setting, high-dimensional regression for multi-SNP association analysis is challenging as the response variables obtained through brain imaging comprise potentially interlinked endophenotypes, and there is a desire to incorporate a biological group structure among SNPs based on their genetic arrangement. We consider a recently developed approach for the analysis of imaging genetic studies based on penalized regression with regularization based on a group <span class="math inline">\(l_{2,1}\)</span>-norm penalty which encourages sparsity at both the gene and SNP level. While incorporating a number of useful features, a shortcoming of the proposed approach is that it only furnishes a point estimate and techniques for obtaining valid standard errors or interval estimates are not provided. We solve this problem by developing a corresponding Bayesian formulation based on a three-level hierarchical model that allows for full posterior inference using Gibbs sampling. Techniques for the selection of tuning parameters are investigated thoroughly and we make comparisons between cross-validation, fully Bayes, and empirical Bayes approaches for the choice of tuning parameters. Our proposed methodology is investigated using simulation studies and is applied to the analysis of a large dataset collected as part of the Alzheimer’s Disease Neuroimaging Initiative. I will discuss how our MCMC algorithm scales with an increasing number of SNPs, imaging phenotypes, and subjects, and I will also describe extensions of the model for application to brain-wide data and the corresponding development of a spatial model that is currently in progress. Finally, I will introduce the R package ‘bgsmtr’ that implements our model.</p>
+</div>
 
 
 
@@ -248,7 +252,7 @@ $(document).ready(function () {
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
