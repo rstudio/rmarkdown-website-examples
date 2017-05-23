@@ -1,0 +1,34 @@
+---
+title: Submission
+---
+
+* * *
+
+Three types of presentations are possible in this meeting:
+
+- 20 min regular talks,
+- 6 min Lightning Talks*,
+- Posters.
+
+For every type of presentation, authors must provide a one or two page abstract. 
+
+This document must be submitted in **PDF** format, using one of the following templates (Latex or Word):
+
+[**gabarit_RR.tex**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.tex)
+
+[**gabarit_RR.odt**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.odt)
+
+[**gabarit_RR.doc**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.doc)
+
+[**gabarit_RR.Rmd (à décompresser)**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.Rmd.zip)     
+
+<font color="red">  Submission procedure is now opened. Submit your **PDF** file using this link https://angletr2017.sciencesconf.org </font>
+
+<font color="green"> For any issue, use this email angletr2017@sciencesconf.org</font> 
+
+
+Abstract submission deadline is set to **April 23, 2017**.
+
+
+* Lightning Talks are 6 minute talks allowing speakers to address a subject of their choice related to R. The speaker will have to provide 13 slides to be displayed during the presentation (one slide every 24 seconds).
+

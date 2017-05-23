@@ -1,0 +1,32 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  type: inverse
+  left:
+    - text: "Accueil"
+      href: index.html
+    - text: "Communications"
+      href: about.html
+    - text: "Comités"
+      href: committee.html
+    - text: "Dates Importantes"
+      href: Dates.html
+    - text: "Inscriptions"
+      href: inscription.html
+    - text: "Partenaires-Sponsors"
+      href: partenaires.html
+    - text: "Programme"
+      href: programme.html
+    - text: "Informations pratiques"
+      href: Information.html
+    - text: English version
+      href: English1/index.html
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: Kfyin.css
+
+
+

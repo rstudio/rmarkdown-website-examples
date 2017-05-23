@@ -1,0 +1,111 @@
+---
+title: "INFORMATIONS PRATIQUES "
+---
+
+***
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,message = FALSE)
+```
+
+***
+```{r es, echo=FALSE,warning=FALSE}
+library(googleVis)
+library(ggmap)
+library(ggplot2)
+```
+
+## Anglet c'est où ?
+
+```{r es2, echo=FALSE,,warning=FALSE}
+locus="Allée du Parc Montaury, Anglet, France"
+myMap <- get_map(location=locus, zoom= 16, source="google", 
+                 maptype="roadmap", crop=TRUE)
+```
+
+```{r es3,echo=FALSE,,warning=FALSE}
+##ggmap(myMap,extend="device")
+```
+
+```{r es4,echo=FALSE,,warning=FALSE}
+library(leaflet)
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=-1.509304, lat=43.479965, popup="The place to be")
+m
+```
+
+
+## Comment se rendre à Anglet 
+
+- Comment aller de l'aéroport au campus de Montaury (distance 2,6 km) ?
+    - En taxi (compter 10 minutes)
+    - En bus (compter 20 minutes). Prendre la ligne 14, en direction de "Bayonne-Gare" et descendre à l'arrêt "Minerva". 
+
+- Comment aller de la gare de Bayonne au campus de Montaury (distance : 5,5 km) ?
+    - En taxi (compter 15 minutes)
+    - En bus (compter 25 minutes). Prendre la ligne 14, en direction de "Biarritz Cité Scolaire" et descendre à l'arrêt "Minerva". 
+
+
+- Comment aller de la gare de Biarritz au campus de Montaury (distance 4.4 km) ?
+    - En taxi (compter 12 minutes)
+    - En bus (compter 18  minutes). Prendre la ligne C, en direction de "Bayonne-Gare" et descendre à l'arrêt "Bernain". 
+
+- <img src="http://angletr2017.com/FIG/how-to-join-conference.png" alt="some text"
+width="450" height="150">
+
+## Se loger
+
+Afin de bénéficier des tarifs négociés par l'office de tourisme d'Anglet, nous vous demandons d'effectuer votre réservation par email  à reservation@anglet-tourisme.com en indiquant:
+
+- l'Hotel choisi
+- le type de chambre (single ou double)
+- la date d'arrivée et de départ
+- leur adresse, numéro de portable.
+
+Un contrat vous sera envoyé et vous n'aurez pas de taxe de séjour à régler à votre arrivée.
+
+
+**Hôtels partenaires de la conférence:**
+
+- [HOTEL NOVOTEL****](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/novotel-resort--spa-biarritz-anglet-ang003_TFOHOTAQU06401SGM8T.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 110 € (petit-déjeuner inclus) -  Tarif double : 115 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+- [HOTEL IBIS BIARRITZ ANGLET***](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-ibis-biarritz-anglet-aeroport_TFOHOTAQU06401SGNKR.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 87 € (petit-déjeuner inclus) -  Tarif double : 97 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+
+
+- [HOTEL ATLANHAL****](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-atlanthal-ang004_TFOHOTAQU06401SGM8P.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 124 € (petit-déjeuner inclus) -  Tarif double : 184 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+
+- [HOTEL LES TERRASSES D'ATLANTHAL***](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-les-terrasses-d-atlanthal-ang005_TFOHOTAQU06401SGMOM.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 93 € (petit-déjeuner inclus) -  Tarif double : 132 € (petit-déj inclus). Taxe de séjour à
+régler sur place.**
+
+- [HOTEL ALTICA**](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-altica-ang007_TFOHOTAQU06401SGML8.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiHotelsV01|Defaut|0|1|MoHotelsV01|FO|S&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 75 € (petit-déjeuner inclus) -  Tarif double : 83,50 €
+(petit-déjeuner inclus). Taxe de séjour à régler sur place.**
+
+- [HOTEL RESIDENCE ANGLET BIARRITZ PARME](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/residence-hoteliere/anglet/residence-anglet-biarritz-parme-ang011_TFORETAQU06401SGMPE.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiResidencesV01|Defaut|0|1|MoVide&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 87,70 € (petit-déjeuner inclus) -  Tarif double :
+66,35 € (petit-déj inclus). Taxe de séjour à régler sur place.**
+
+
+
+- [AZUREVA](http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/village-vacances/anglet/azureva-anglet-ang012_TFOVILAQU06401SGMRH.php#we12[glGeo]=13~43.4509~-1.5764~43.5348~-1.4722&we12[glOnglet]=none&we12[glDispo]=0~0~0~0&we12[id0]=|LiVillagesVacancesResidencesTourismeV01|Defaut|0|1|MoVide&prefixeInst=we12&layerId=id0)
+
+**Tarif Single : 65,50 € (petit-déjeuner inclus) -  Tarif double : 72 €
+(petit-déj inclus). Taxe de séjour à régler sur place.**
+
+

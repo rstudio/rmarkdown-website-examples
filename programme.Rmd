@@ -1,0 +1,123 @@
+---
+title: "Programme"
+---
+
+***
+
+##**Conférenciers invités ** 
+- Marie-Pierre Etienne (AgroParisTech/INRA): *Ecology Analysis using R*  
+- Thomas Gerds (Danemark, University of Copenhagen): [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
+- Joel Gombin (from datactivist, http://www.datactivi.st): *Faut-il coder pour être (data)journaliste ? Comment les rédactions peuvent utiliser R*
+- Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): *Approche Bayésienne en pharmacogénétique avec JAGS et RStan*
+- Farouk Nathoo (Canada: University of Victoria): [*Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*](https://angletr2017.com/Abstract_talk.html)
+
+## **Tutoriel (mercredi 28 Juin après-midi 14h-17h)**
+
+- *Reproductible documents avec Rstudio, Markdown, Github*. Animé par Nicholas Tierney (Australia) et Benoit Liquet (France)
+
+- *Manipulation de données avec {dplyr} dans le tidyverse*. Animé par Diane Beldame (France: http://www.thinkr.fr/) 
+
+
+## **Jeudi 29 Juin** 
+
+- 9h-10h :  **Invited speaker**; Marie-Pierre Etienne. *Ecology Analysis using R*  
+- 10h-10h30 : Pause (Café, thé, ...)
+- 10h30-11h30 : Session en paralèlle. S1 (Ecologie) et S2 (Modélisation) 
+- 11h30-12h30 : **Invited speaker**;Thomas Gerds. [*Sensitivity analysis using lava simulation*](https://angletr2017.com/Abstract_talk.html)
+- 12h30-13h45 : Lunch et Poster
+- 13h45-15h00 : _Table ronde entreprise_
+- 15h00-16h00 : **Invited speaker**: Joel Gombin. *Comment les rédactions peuvent utiliser R*
+- 16h00-16h30 : Pause café
+- 16h30-17h30 : Session en paralèlle. S3 (Shiny) et S4 (visualisation) 
+- 17h30-18h06 : 6 lightning talks (L1)
+- 19h00-?? : Repas de gala
+
+## **Vendredi 30 Juin**
+
+- 9h00-10h00 : **Invited speaker**; Julie Bertrand. *Approche Bayésienne en pharmacogénétique avec JAGS et RStan*
+- 10h-10h30 : Pause (Café, thé, ...)
+- 10h30-11h30 : Session en paralèlle. S5 (Bayesian) et S6 (Shiny)
+- 11h30-12h30 :  **Invited speaker**; Farouk Nathoo. [*Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics*](https://angletr2017.com/Abstract_talk.html)
+- 12h30-13h45 : Lunch 
+- 13h45-14h45 : Session S7 (visualisation)
+- 14h45-15h30 : 7 lightning talks (L2)
+- 15h30-16h : Clôture et dernière pause café
+
+
+## **Session**
+
+- _S1 : Ecologie_
+
+    - S. Dray. Analyse spatiale multi-échelles de données écologiques avec adespatial
+    - G. Legras.  Etude des règles d’assemblages des communautés : présentation d’une nouvelle approche méthodologique
+    - M. Ben Salem :  R Package UP : Distribution Universelle de Prédiction pour les méta-modèles
+
+- _S2 : Modélisation et réduction de dimension_
+
+    - M. Chavent. Approche bloc en ACP group-sparse: le package sparsePCA
+    - A. Mourer. Réduction de dimension en apprentissage non supervisé 
+    - P.J. Morgane. C3CO - Un package pour l’inference de la clonalité des cellules cancéreuses à partir du nombre de copies d’ADN
+
+- _S3 : Shiny et Server_
+
+    - V. Guyader. Encapsuler une application R avec Docker
+    - K. Chine. Clouds, containers and R, towards a global hub for reproducible and collaborative open data science
+    - P. Beaucamp. Vanilla Air - Scalable R Server 
+    
+- _S4 : Visualisation Analyse de données_ 
+
+    - T. Robert.  Visualisation intéractive d'arbres de décision avec visNetwork
+    - O. Eterradossi. La couleur dans l’environnement R : un survol
+    - C. Genolini. Interface Homme Machine : Data Management
+    
+- _S5 : Bayesian et Graphes_
+
+    - M. Champion. GADAG : un paquet R dédié à l'inférence de Graphes Acycliques Dirigés par maximum de vraisemblance pénalisé
+    - M.A. Vibet. Modélisation bayésienne d'une chronologie d’évènements archéologiques et analyse des chaines de Markov à l'aide du package 'ArchaeoPhases'
+    - V. Baudrot. Improvements in GUTS model implementation under a Bayesian framework with R and JAGS
+    
+ - _S6 : API et Shiny_
+
+    - Y. C. Alarcon. Evaluation du package Heemod et mise en place d'un tableau de synthese en Shiny pour l'analyse de coût-efficacité
+    - Colin Fay. Les API, un enfeR ?
+    - K. H. Dakpo.  productivity : un package dédié aux calculs d’indices de productivité par la méthode DEA 
+
+- _S7 : Visualisation Analyse de données_ 
+
+      - S. Issad. Travaux sous tension : traitement d'un volume important de données et outils de visualisation
+      - Al. Samba. Linkspotter : outil interactif d’exploration et de visualisation de corrélations 
+      - A. N. Tierney. naniar: Data structures and functions for consistent exploration of missing data
+
+
+## **lightning talks**
+
+- _L1 : Jeudi 29 Juin_
+
+    - A. Siberchicot. lbbe-shiny : un exemple de serveur shiny fait-maison au service de la recherche locale
+    - M. Deville. Analyse des débats sur le secret bancaire au Parlement suisse avec R
+    - Y. Holtz. The #SurfeR project : visualiser twitter avec R 
+    - Colin FAY. 1 dataset, 10 dataviz
+    - A. Antoni. Un outil de gestion de scénarios d'étude statistique en R
+    - A. Ebert. Efficient simulation of complex queueing systems with the R package queuecomputer
+
+- _L2 : Vendredi 30 Juin_
+    - C. Broc. Investigating Gene- and Pathway-environment Interaction analysis approaches
+    - S. Thuleau. FactoInvestigate - Description automatique de résultats d'analyse factorielle
+    - M. Gousseff. Une interface R-Shiny pour le choix de typologies sur variables qualitatives
+    - M. Saumard. Fouille des données du jeu Mathador
+    - M. Salmon. Comment je suis devenue crulote. 
+    - E. Damitio. Bassins d’habitat pour les Pyrénées-Atlantiques 
+    - C. Paroissin. Le Dispositif ART : Apprentissage de R pour Tous / Aprendizaje de R para Todos
+    
+    
+## **Posters**    
+
+- _Poster  : Jeudi 29 Juin_
+
+    - Haddad. SI-APIMODEL : un système d'information conçu avec R, RPostgreSQL, Shiny, DT, dplyr, magrittr, leafletR, ...
+    - A. Siberchicot. Marey-Map Online : une application shiny pour estimer les taux de recombinaison grâce à l’approche par carte de Marey
+    - E. Salette. Outil d’interprétation de score
+    - C. Kermorvant. De nouveaux packages pour créer des plans d’échantillonnages spatialement équilibrés sous R
+    - O. Delaigue. airGRteaching : un package pour l’apprentissage de la modélisation hydrologique pluie-débit
+    - F. Rigal. Partitioning taxon, phylogenetic and functional beta diversity into replacement and richness difference components
+    - Y. Lalanne. How determining a small set of indicator species useful in environmental monitoring ? A case study of intertidal boulder fields macrofauna (Northern Basque coast) using the R package "indicspecies".  

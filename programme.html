@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Programme</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="Kfyin.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Accueil</a>
+</li>
+<li>
+  <a href="about.html">Communications</a>
+</li>
+<li>
+  <a href="committee.html">Comités</a>
+</li>
+<li>
+  <a href="Dates.html">Dates Importantes</a>
+</li>
+<li>
+  <a href="inscription.html">Inscriptions</a>
+</li>
+<li>
+  <a href="partenaires.html">Partenaires-Sponsors</a>
+</li>
+<li>
+  <a href="programme.html">Programme</a>
+</li>
+<li>
+  <a href="Information.html">Informations pratiques</a>
+</li>
+<li>
+  <a href="English1/index.html">English version</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Programme</h1>
+
+</div>
+
+
+<hr />
+<div id="conferenciers-invites" class="section level2">
+<h2><strong>Conférenciers invités </strong></h2>
+<ul>
+<li>Marie-Pierre Etienne (AgroParisTech/INRA): <em>Ecology Analysis using R</em><br />
+</li>
+<li>Thomas Gerds (Danemark, University of Copenhagen): <a href="https://angletr2017.com/Abstract_talk.html"><em>Sensitivity analysis using lava simulation</em></a></li>
+<li>Joel Gombin (from datactivist, <a href="http://www.datactivi.st" class="uri">http://www.datactivi.st</a>): <em>Faut-il coder pour être (data)journaliste ? Comment les rédactions peuvent utiliser R</em></li>
+<li>Julie Bertrand (UMR 1137 INSERM, Paris-Diderot and UCL Genetic Institute): <em>Approche Bayésienne en pharmacogénétique avec JAGS et RStan</em></li>
+<li>Farouk Nathoo (Canada: University of Victoria): <a href="https://angletr2017.com/Abstract_talk.html"><em>Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics</em></a></li>
+</ul>
+</div>
+<div id="tutoriel-mercredi-28-juin-apres-midi-14h-17h" class="section level2">
+<h2><strong>Tutoriel (mercredi 28 Juin après-midi 14h-17h)</strong></h2>
+<ul>
+<li><p><em>Reproductible documents avec Rstudio, Markdown, Github</em>. Animé par Nicholas Tierney (Australia) et Benoit Liquet (France)</p></li>
+<li><p><em>Manipulation de données avec {dplyr} dans le tidyverse</em>. Animé par Diane Beldame (France: <a href="http://www.thinkr.fr/" class="uri">http://www.thinkr.fr/</a>)</p></li>
+</ul>
+</div>
+<div id="jeudi-29-juin" class="section level2">
+<h2><strong>Jeudi 29 Juin</strong></h2>
+<ul>
+<li>9h-10h : <strong>Invited speaker</strong>; Marie-Pierre Etienne. <em>Ecology Analysis using R</em><br />
+</li>
+<li>10h-10h30 : Pause (Café, thé, …)</li>
+<li>10h30-11h30 : Session en paralèlle. S1 (Ecologie) et S2 (Modélisation)</li>
+<li>11h30-12h30 : <strong>Invited speaker</strong>;Thomas Gerds. <a href="https://angletr2017.com/Abstract_talk.html"><em>Sensitivity analysis using lava simulation</em></a></li>
+<li>12h30-13h45 : Lunch et Poster</li>
+<li>13h45-15h00 : <em>Table ronde entreprise</em></li>
+<li>15h00-16h00 : <strong>Invited speaker</strong>: Joel Gombin. <em>Comment les rédactions peuvent utiliser R</em></li>
+<li>16h00-16h30 : Pause café</li>
+<li>16h30-17h30 : Session en paralèlle. S3 (Shiny) et S4 (visualisation)</li>
+<li>17h30-18h06 : 6 lightning talks (L1)</li>
+<li>19h00-?? : Repas de gala</li>
+</ul>
+</div>
+<div id="vendredi-30-juin" class="section level2">
+<h2><strong>Vendredi 30 Juin</strong></h2>
+<ul>
+<li>9h00-10h00 : <strong>Invited speaker</strong>; Julie Bertrand. <em>Approche Bayésienne en pharmacogénétique avec JAGS et RStan</em></li>
+<li>10h-10h30 : Pause (Café, thé, …)</li>
+<li>10h30-11h30 : Session en paralèlle. S5 (Bayesian) et S6 (Shiny)</li>
+<li>11h30-12h30 : <strong>Invited speaker</strong>; Farouk Nathoo. <a href="https://angletr2017.com/Abstract_talk.html"><em>Bayesian Group-Sparse Multi-Task Regression for Imaging Genetics</em></a></li>
+<li>12h30-13h45 : Lunch</li>
+<li>13h45-14h45 : Session S7 (visualisation)</li>
+<li>14h45-15h30 : 7 lightning talks (L2)</li>
+<li>15h30-16h : Clôture et dernière pause café</li>
+</ul>
+</div>
+<div id="session" class="section level2">
+<h2><strong>Session</strong></h2>
+<ul>
+<li><p><em>S1 : Ecologie</em></p>
+<ul>
+<li>S. Dray. Analyse spatiale multi-échelles de données écologiques avec adespatial</li>
+<li>G. Legras. Etude des règles d’assemblages des communautés : présentation d’une nouvelle approche méthodologique</li>
+<li>M. Ben Salem : R Package UP : Distribution Universelle de Prédiction pour les méta-modèles</li>
+</ul></li>
+<li><p><em>S2 : Modélisation et réduction de dimension</em></p>
+<ul>
+<li>M. Chavent. Approche bloc en ACP group-sparse: le package sparsePCA</li>
+<li>A. Mourer. Réduction de dimension en apprentissage non supervisé</li>
+<li>P.J. Morgane. C3CO - Un package pour l’inference de la clonalité des cellules cancéreuses à partir du nombre de copies d’ADN</li>
+</ul></li>
+<li><p><em>S3 : Shiny et Server</em></p>
+<ul>
+<li>V. Guyader. Encapsuler une application R avec Docker</li>
+<li>K. Chine. Clouds, containers and R, towards a global hub for reproducible and collaborative open data science</li>
+<li>P. Beaucamp. Vanilla Air - Scalable R Server</li>
+</ul></li>
+<li><p><em>S4 : Visualisation Analyse de données</em></p>
+<ul>
+<li>T. Robert. Visualisation intéractive d’arbres de décision avec visNetwork</li>
+<li>O. Eterradossi. La couleur dans l’environnement R : un survol</li>
+<li>C. Genolini. Interface Homme Machine : Data Management</li>
+</ul></li>
+<li><p><em>S5 : Bayesian et Graphes</em></p>
+<ul>
+<li>M. Champion. GADAG : un paquet R dédié à l’inférence de Graphes Acycliques Dirigés par maximum de vraisemblance pénalisé</li>
+<li>M.A. Vibet. Modélisation bayésienne d’une chronologie d’évènements archéologiques et analyse des chaines de Markov à l’aide du package ‘ArchaeoPhases’</li>
+<li>V. Baudrot. Improvements in GUTS model implementation under a Bayesian framework with R and JAGS</li>
+</ul></li>
+<li><p><em>S6 : API et Shiny</em></p>
+<ul>
+<li>Y. C. Alarcon. Evaluation du package Heemod et mise en place d’un tableau de synthese en Shiny pour l’analyse de coût-efficacité</li>
+<li>Colin Fay. Les API, un enfeR ?</li>
+<li>K. H. Dakpo. productivity : un package dédié aux calculs d’indices de productivité par la méthode DEA</li>
+</ul></li>
+<li><p><em>S7 : Visualisation Analyse de données</em></p>
+<ul>
+<li>S. Issad. Travaux sous tension : traitement d’un volume important de données et outils de visualisation</li>
+<li>Al. Samba. Linkspotter : outil interactif d’exploration et de visualisation de corrélations</li>
+<li>A. N. Tierney. naniar: Data structures and functions for consistent exploration of missing data</li>
+</ul></li>
+</ul>
+</div>
+<div id="lightning-talks" class="section level2">
+<h2><strong>lightning talks</strong></h2>
+<ul>
+<li><p><em>L1 : Jeudi 29 Juin</em></p>
+<ul>
+<li>A. Siberchicot. lbbe-shiny : un exemple de serveur shiny fait-maison au service de la recherche locale</li>
+<li>M. Deville. Analyse des débats sur le secret bancaire au Parlement suisse avec R</li>
+<li>Y. Holtz. The #SurfeR project : visualiser twitter avec R</li>
+<li>Colin FAY. 1 dataset, 10 dataviz</li>
+<li>A. Antoni. Un outil de gestion de scénarios d’étude statistique en R</li>
+<li>A. Ebert. Efficient simulation of complex queueing systems with the R package queuecomputer</li>
+</ul></li>
+<li><em>L2 : Vendredi 30 Juin</em>
+<ul>
+<li>C. Broc. Investigating Gene- and Pathway-environment Interaction analysis approaches</li>
+<li>S. Thuleau. FactoInvestigate - Description automatique de résultats d’analyse factorielle</li>
+<li>M. Gousseff. Une interface R-Shiny pour le choix de typologies sur variables qualitatives</li>
+<li>M. Saumard. Fouille des données du jeu Mathador</li>
+<li>M. Salmon. Comment je suis devenue crulote.</li>
+<li>E. Damitio. Bassins d’habitat pour les Pyrénées-Atlantiques</li>
+<li>C. Paroissin. Le Dispositif ART : Apprentissage de R pour Tous / Aprendizaje de R para Todos</li>
+</ul></li>
+</ul>
+</div>
+<div id="posters" class="section level2">
+<h2><strong>Posters</strong></h2>
+<ul>
+<li><p><em>Poster : Jeudi 29 Juin</em></p>
+<ul>
+<li>Haddad. SI-APIMODEL : un système d’information conçu avec R, RPostgreSQL, Shiny, DT, dplyr, magrittr, leafletR, …</li>
+<li>A. Siberchicot. Marey-Map Online : une application shiny pour estimer les taux de recombinaison grâce à l’approche par carte de Marey</li>
+<li>E. Salette. Outil d’interprétation de score</li>
+<li>C. Kermorvant. De nouveaux packages pour créer des plans d’échantillonnages spatialement équilibrés sous R</li>
+<li>O. Delaigue. airGRteaching : un package pour l’apprentissage de la modélisation hydrologique pluie-débit</li>
+<li>F. Rigal. Partitioning taxon, phylogenetic and functional beta diversity into replacement and richness difference components</li>
+<li>Y. Lalanne. How determining a small set of indicator species useful in environmental monitoring ? A case study of intertidal boulder fields macrofauna (Northern Basque coast) using the R package “indicspecies”.</li>
+</ul></li>
+</ul>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

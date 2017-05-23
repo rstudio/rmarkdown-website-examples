@@ -1,0 +1,28 @@
+---
+title: "Committee"
+---
+
+***
+
+### **Program committee**
+
+-    Aurélien Latouche (Cnam, Paris) Président, email : aurelien.latouche@cnam.fr
+-    Julie Josse (Ecole Polytechnique,Saclay) Vice-présidente, email : julie.josserennes@gmail.com (http://juliejosse.com/)
+-    Philippe Saint Pierre (Toulouse I), email : Philippe.Saint-Pierre@math.univ-toulouse.fr
+-    Yannig Goude (EDF, Palaiseau), email : yannig.goude@edf.fr
+-    Pierre Lafaye de Micheaux (CREST, Rennes), email : lafaye@dms.umontreal.ca
+
+
+### **Organization committee**
+
+-    Benoit Liquet (UPPA, LMAP) Président, email : benoit.liquet@univ-pau.fr
+-    Christian Paroissin (UPPA, LMAP ) Vice-président, email : christian.paroissin@univ-pau.fr
+-    Noelle Bru (UPPA, LMAP), email : noelle.bru@univ-pau.fr
+-    Sylvere Besse (UPPA), email : sylvere.besse@univ-pau.fr
+-    Yann Lalanne (UPPA), email : yann.lalanne@univ-pau.fr
+-    Camilo Broc (UPPA, LMAP), email : camilo.broc@univ-pau.fr
+-    François Rigal (UPPA, Equipe Environnement et Microbiologie), email :francois.rigal@univ-pau.fr
+-    Bruno Demoisy (UPPA, LMAP), email : bruno.demoisy@univ-pau.fr 
+-    Sophie Hontebeyrie (UPPA, LMAP), email : sophie.hontebeyrie@univ-pau.fr 
+-    Sylvie Berton (UPPA, LMAP), email : sylvie.berton@univ-pau.fr 
+

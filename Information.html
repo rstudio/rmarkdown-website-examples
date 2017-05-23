@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>INFORMATIONS PRATIQUES</title>
+
+<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/htmlwidgets-0.8/htmlwidgets.js"></script>
+<link href="site_libs/leaflet-0.7.7/leaflet.css" rel="stylesheet" />
+<script src="site_libs/leaflet-0.7.7/leaflet.js"></script>
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
+<link href="site_libs/leaflet-label-0.2.2/leaflet.label.css" rel="stylesheet" />
+<script src="site_libs/leaflet-label-0.2.2/leaflet.label.js"></script>
+<script src="site_libs/Proj4Leaflet-0.7.2/proj4-compressed.js"></script>
+<script src="site_libs/Proj4Leaflet-0.7.2/proj4leaflet.js"></script>
+<script src="site_libs/leaflet-binding-1.1.0/leaflet.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="Kfyin.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Accueil</a>
+</li>
+<li>
+  <a href="about.html">Communications</a>
+</li>
+<li>
+  <a href="committee.html">Comités</a>
+</li>
+<li>
+  <a href="Dates.html">Dates Importantes</a>
+</li>
+<li>
+  <a href="inscription.html">Inscriptions</a>
+</li>
+<li>
+  <a href="partenaires.html">Partenaires-Sponsors</a>
+</li>
+<li>
+  <a href="programme.html">Programme</a>
+</li>
+<li>
+  <a href="Information.html">Informations pratiques</a>
+</li>
+<li>
+  <a href="English1/index.html">English version</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">INFORMATIONS PRATIQUES</h1>
+
+</div>
+
+
+<hr />
+<hr />
+<div id="anglet-cest-ou" class="section level2">
+<h2>Anglet c’est où ?</h2>
+<div id="htmlwidget-bbecf576d383aa20108a" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-bbecf576d383aa20108a">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap\u003c/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA\u003c/a>"}]},{"method":"addMarkers","args":[43.479965,-1.509304,null,null,null,{"clickable":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The place to be",null,null,null,null,null,null]}],"limits":{"lat":[43.479965,43.479965],"lng":[-1.509304,-1.509304]}},"evals":[],"jsHooks":[]}</script>
+</div>
+<div id="comment-se-rendre-a-anglet" class="section level2">
+<h2>Comment se rendre à Anglet</h2>
+<ul>
+<li>Comment aller de l’aéroport au campus de Montaury (distance 2,6 km) ?
+<ul>
+<li>En taxi (compter 10 minutes)</li>
+<li>En bus (compter 20 minutes). Prendre la ligne 14, en direction de “Bayonne-Gare” et descendre à l’arrêt “Minerva”.</li>
+</ul></li>
+<li>Comment aller de la gare de Bayonne au campus de Montaury (distance : 5,5 km) ?
+<ul>
+<li>En taxi (compter 15 minutes)</li>
+<li>En bus (compter 25 minutes). Prendre la ligne 14, en direction de “Biarritz Cité Scolaire” et descendre à l’arrêt “Minerva”.</li>
+</ul></li>
+<li>Comment aller de la gare de Biarritz au campus de Montaury (distance 4.4 km) ?
+<ul>
+<li>En taxi (compter 12 minutes)</li>
+<li>En bus (compter 18 minutes). Prendre la ligne C, en direction de “Bayonne-Gare” et descendre à l’arrêt “Bernain”.</li>
+</ul></li>
+<li><img src="http://angletr2017.com/FIG/how-to-join-conference.png" alt="some text"
+width="450" height="150"></li>
+</ul>
+</div>
+<div id="se-loger" class="section level2">
+<h2>Se loger</h2>
+<p>Afin de bénéficier des tarifs négociés par l’office de tourisme d’Anglet, nous vous demandons d’effectuer votre réservation par email à <a href="mailto:reservation@anglet-tourisme.com">reservation@anglet-tourisme.com</a> en indiquant:</p>
+<ul>
+<li>l’Hotel choisi</li>
+<li>le type de chambre (single ou double)</li>
+<li>la date d’arrivée et de départ</li>
+<li>leur adresse, numéro de portable.</li>
+</ul>
+<p>Un contrat vous sera envoyé et vous n’aurez pas de taxe de séjour à régler à votre arrivée.</p>
+<p><strong>Hôtels partenaires de la conférence:</strong></p>
+<ul>
+<li><a href="http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/novotel-resort--spa-biarritz-anglet-ang003_TFOHOTAQU06401SGM8T.php#we12%5BglGeo%5D=13~43.4509~-1.5764~43.5348~-1.4722&amp;we12%5BglOnglet%5D=none&amp;we12%5BglDispo%5D=0~0~0~0&amp;we12%5Bid0%5D=%7CLiHotelsV01%7CDefaut%7C0%7C1%7CMoHotelsV01%7CFO%7CS&amp;prefixeInst=we12&amp;layerId=id0">HOTEL NOVOTEL****</a></li>
+</ul>
+<p><strong>Tarif Single : 110 € (petit-déjeuner inclus) - Tarif double : 115 € (petit-déj inclus). Taxe de séjour à régler sur place.</strong></p>
+<ul>
+<li><a href="http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-ibis-biarritz-anglet-aeroport_TFOHOTAQU06401SGNKR.php#we12%5BglGeo%5D=13~43.4509~-1.5764~43.5348~-1.4722&amp;we12%5BglOnglet%5D=none&amp;we12%5BglDispo%5D=0~0~0~0&amp;we12%5Bid0%5D=%7CLiHotelsV01%7CDefaut%7C0%7C1%7CMoHotelsV01%7CFO%7CS&amp;prefixeInst=we12&amp;layerId=id0">HOTEL IBIS BIARRITZ ANGLET***</a></li>
+</ul>
+<p><strong>Tarif Single : 87 € (petit-déjeuner inclus) - Tarif double : 97 € (petit-déj inclus). Taxe de séjour à régler sur place.</strong></p>
+<ul>
+<li><a href="http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-atlanthal-ang004_TFOHOTAQU06401SGM8P.php#we12%5BglGeo%5D=13~43.4509~-1.5764~43.5348~-1.4722&amp;we12%5BglOnglet%5D=none&amp;we12%5BglDispo%5D=0~0~0~0&amp;we12%5Bid0%5D=%7CLiHotelsV01%7CDefaut%7C0%7C1%7CMoHotelsV01%7CFO%7CS&amp;prefixeInst=we12&amp;layerId=id0">HOTEL ATLANHAL****</a></li>
+</ul>
+<p><strong>Tarif Single : 124 € (petit-déjeuner inclus) - Tarif double : 184 € (petit-déj inclus). Taxe de séjour à régler sur place.</strong></p>
+<ul>
+<li><a href="http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-les-terrasses-d-atlanthal-ang005_TFOHOTAQU06401SGMOM.php#we12%5BglGeo%5D=13~43.4509~-1.5764~43.5348~-1.4722&amp;we12%5BglOnglet%5D=none&amp;we12%5BglDispo%5D=0~0~0~0&amp;we12%5Bid0%5D=%7CLiHotelsV01%7CDefaut%7C0%7C1%7CMoHotelsV01%7CFO%7CS&amp;prefixeInst=we12&amp;layerId=id0">HOTEL LES TERRASSES D’ATLANTHAL***</a></li>
+</ul>
+<p><strong>Tarif Single : 93 € (petit-déjeuner inclus) - Tarif double : 132 € (petit-déj inclus). Taxe de séjour à régler sur place.</strong></p>
+<ul>
+<li><a href="http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/hotel/anglet/hotel-altica-ang007_TFOHOTAQU06401SGML8.php#we12%5BglGeo%5D=13~43.4509~-1.5764~43.5348~-1.4722&amp;we12%5BglOnglet%5D=none&amp;we12%5BglDispo%5D=0~0~0~0&amp;we12%5Bid0%5D=%7CLiHotelsV01%7CDefaut%7C0%7C1%7CMoHotelsV01%7CFO%7CS&amp;prefixeInst=we12&amp;layerId=id0">HOTEL ALTICA**</a></li>
+</ul>
+<p><strong>Tarif Single : 75 € (petit-déjeuner inclus) - Tarif double : 83,50 € (petit-déjeuner inclus). Taxe de séjour à régler sur place.</strong></p>
+<ul>
+<li><a href="http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/residence-hoteliere/anglet/residence-anglet-biarritz-parme-ang011_TFORETAQU06401SGMPE.php#we12%5BglGeo%5D=13~43.4509~-1.5764~43.5348~-1.4722&amp;we12%5BglOnglet%5D=none&amp;we12%5BglDispo%5D=0~0~0~0&amp;we12%5Bid0%5D=%7CLiResidencesV01%7CDefaut%7C0%7C1%7CMoVide&amp;prefixeInst=we12&amp;layerId=id0">HOTEL RESIDENCE ANGLET BIARRITZ PARME</a></li>
+</ul>
+<p><strong>Tarif Single : 87,70 € (petit-déjeuner inclus) - Tarif double : 66,35 € (petit-déj inclus). Taxe de séjour à régler sur place.</strong></p>
+<ul>
+<li><a href="http://www.anglet-tourisme.com/diffusio/fr/ou-dormir/hebergements/village-vacances/anglet/azureva-anglet-ang012_TFOVILAQU06401SGMRH.php#we12%5BglGeo%5D=13~43.4509~-1.5764~43.5348~-1.4722&amp;we12%5BglOnglet%5D=none&amp;we12%5BglDispo%5D=0~0~0~0&amp;we12%5Bid0%5D=%7CLiVillagesVacancesResidencesTourismeV01%7CDefaut%7C0%7C1%7CMoVide&amp;prefixeInst=we12&amp;layerId=id0">AZUREVA</a></li>
+</ul>
+<p><strong>Tarif Single : 65,50 € (petit-déjeuner inclus) - Tarif double : 72 € (petit-déj inclus). Taxe de séjour à régler sur place.</strong></p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

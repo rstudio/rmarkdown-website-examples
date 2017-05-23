@@ -1,0 +1,33 @@
+---
+title: Appel à communications
+---
+
+* * *
+
+Trois types de communications sont prévus durant ces rencontres :
+
+- Des communications libres de 20 mn,
+- Des Lightning Talks* de 6 mn,
+- Des posters.
+
+Un résumé d'une à deux pages est demandé pour ces trois types de communications, en plus du résumé court qui est à entrer dans le formulaire de soumission (quelques lignes pour ce dernier, au format texte simple). 
+
+Les résumés doivent être soumis au format **PDF** en utilisant l'un des gabarits (Latex, LibreOffice, Word ou RMarkdown) suivants :
+
+[**gabarit_RR.tex**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.tex)
+
+[**gabarit_RR.odt**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.odt)
+
+[**gabarit_RR.doc**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.doc)
+
+[**gabarit_RR.Rmd (à décompresser)**](https://github.com/benoit-liquet/R-conference-Anglet/blob/master/Gabarit/gabarit_RR.Rmd.zip)     
+
+<font color="red">  Le dépôts des communications est maitenant ouvert. Veuillez déposer votre **PDF** en utilisant ce lien  https://angletr2017.sciencesconf.org </font>
+
+<font color="green"> En cas de problème, veuillez contacter angletr2017@sciencesconf.org</font> 
+
+La date limite pour les soumissions est fixée au **23 avril 2017**.
+
+
+*Les Lightning Talks sont des plateformes de 6 minutes permettant aux participants de parler d’un sujet de leur choix en lien avec R. L’orateur devra fournir 13 transparents pour accompagner sa présentation pendant laquelle un transparent sera affiché toutes les 24 secondes.
+
